@@ -129,7 +129,7 @@ final-lab-set1/
 
 ```bash
 # 1. Clone repository
-git clone <repo-url>
+git clone https://github.com/PeawZaZa/final-lab-set1.git
 cd final-lab-set1
 
 # 2. สร้าง SSL Certificate
